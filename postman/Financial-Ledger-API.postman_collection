@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "0cc2de70-1ffb-4f95-aefa-6b622143754d",
+		"name": "Financial Ledger API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50531635",
+		"_collection_link": "https://saisaraswathiganja-2927179.postman.co/workspace/Sai-Saraswathi's-Workspace~5c4bcb63-570d-46c3-8f32-387bb5c46c3a/collection/50531635-0cc2de70-1ffb-4f95-aefa-6b622143754d?action=share&source=collection_link&creator=50531635"
+	},
+	"item": [
+		{
+			"name": "createAccount",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetAccountDetails",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DepositMoney",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "WithdrawMoney",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "TransferMoney",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

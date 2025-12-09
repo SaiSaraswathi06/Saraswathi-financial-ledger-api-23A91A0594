@@ -1,0 +1,29 @@
+{
+  "name": "saraswathi-financial-ledger-api-23a91a0594",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node src/app.js",
+  "dev": "nodemon src/app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiSaraswathi06/Saraswathi-financial-ledger-api-23A91A0594.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiSaraswathi06/Saraswathi-financial-ledger-api-23A91A0594/issues"
+  },
+  "homepage": "https://github.com/SaiSaraswathi06/Saraswathi-financial-ledger-api-23A91A0594#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
